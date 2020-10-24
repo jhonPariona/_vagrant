@@ -8,7 +8,7 @@ Los hipervisores toman sus recursos físicos y los dividen para que los entornos
 
 ## Tipos hipervisores
 
-![Tipos]("./github/tipos.png")
+![Tipos](.github/tipos.png)
 
 ### Tipo 1 o hipervisor bare-metal
 virtualización del lado del servidor 
