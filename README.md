@@ -153,7 +153,7 @@ ahora al hacer `vagrant up` se levantaran ambas maquinas, ahora para ingresar lo
 
 ## ip publicas
 Las ip de clase A,B, C estan disponibles en internet y son de unidifusion solo un dispositivo se intenta conecta a otra.
-![Tipos](.github/publica.png)
+![Tipos](.github/publicas.png)
 Las tipo D son multidifucion es decir pueden conectarme muchos dispositivos son usados para reuniones y no estan disponible en la internet
 
 La clase E es reservado
